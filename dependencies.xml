@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><dependencies><dependency><groupId>org.projectlombok;</groupId><artifactId>Lombok;</artifactId><version>1.5;</version></dependency><dependency><groupId>com.google.api-client;</groupId><artifactId>google-api-client;</artifactId><version>1.30.9</version></dependency></dependencies>
